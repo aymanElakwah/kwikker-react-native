@@ -14,7 +14,7 @@
     "@react-native-community/async-storage": "^1.2.1",
     "@react-navigation/core": "^3.0.0",
     "@react-navigation/native": "^3.0.0",
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "async-storage": "^0.1.0",
     "axios": "^0.18.0",
     "documentation": "^9.3.1",
