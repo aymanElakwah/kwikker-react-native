@@ -16,7 +16,7 @@
     "@react-navigation/native": "^3.0.0",
     "acorn": "^6.1.1",
     "async-storage": "^0.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "documentation": "^9.3.1",
     "install": "^0.12.2",
     "jest-haste-map": "^24.5.0",
